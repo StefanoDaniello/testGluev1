@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Search = () => {
+const Bookmark = () => {
   return (
     <View>
-      <Text>Search</Text>
+      <Text>Bookmark</Text>
     </View>
   )
 }
 
-export default Search
+export default Bookmark
